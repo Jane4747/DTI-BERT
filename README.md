@@ -1,5 +1,6 @@
 # DTI-BERT
-The original website: http://www.jci-bioinfo.cn/dtibert has been closed due to our website domain name is changed. We are therefore resubmitting a new website: http://121.36.221.79/dtibert/, so sorry for the inconvenience caused.
+A tool for identifying the drug-target interaction in cellular networking.
+The original website: https://bioinfo.jcu.edu.cn/dtibert  is under maintenance. We are therefore resubmitting a new website: http://121.36.221.79/dtibert/, so sorry for the inconvenience caused.
 The “DTI-BERT” predictor has four modules  feature engineering, feature extraction, optimization, and decision-making.
 
 About feature engineering module
